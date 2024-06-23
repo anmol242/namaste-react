@@ -1,0 +1,19 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react by Anmol Mahajan",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/anmol242/namaste-react.git"
+  },
+  "author": "Anmol Mahajan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anmol242/namaste-react/issues"
+  },
+  "homepage": "https://github.com/anmol242/namaste-react#readme"
+}
